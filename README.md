@@ -7,7 +7,7 @@ This is a sample PHP website/script that allows you to do a simple test to see i
 Connect to the MySQL Database Engine using MySQL Shell: 
 
 ```
-[opc@ih-webserver-01 ~]$ **mysqlsh admin@10.0.2.247**
+[opc@ih-webserver-01 ~]$ mysqlsh admin@10.0.2.247
 Please provide the password for 'admin@10.0.2.247': ****************
 Save password for 'admin@10.0.2.247'? [Y]es/[N]o/Ne[v]er (default No): Y
 MySQL Shell 8.0.35
